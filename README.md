@@ -19,7 +19,6 @@ Admin pannel
 ![8](https://user-images.githubusercontent.com/113529125/215275328-94c8dc72-57a3-4dce-aed6-eb4004fc1182.png)
 
 ![9](https://user-images.githubusercontent.com/113529125/215275340-2e32071c-d057-424b-ba0e-0d7d9c9033![10](https://user-images.githubusercontent.com/113529125/215275351-d190bd3b-f39b-4f49-a15b-f94a8d086080.png)
-5f.png)
 
 Student pannel
 
