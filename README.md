@@ -1,6 +1,7 @@
-# -School-management-System
+# School-management-System
 Grad School(Teamplate) management system using Html , Css , Bootstrap , Javascript , Php and 
 MYSQL..
+
 This is the front view
 ![1](https://user-images.githubusercontent.com/113529125/215271203-0104804e-a707-4a50-a630-367e84974416.png)
 This is the student enquiry form 
@@ -11,7 +12,7 @@ Admin/Student Login Form
 
 ![4](https://user-images.githubusercontent.com/113529125/215275040-8d762859-e1a1-4699-ad72-8c271914504b.png)
 Admin pannel
-
+# admin pannel username:admin    password : 1234
 ![5](https://user-images.githubusercontent.com/113529125/215275087-dd3b597e-195b-4b3b-918e-6259fd012284.png)
 ![6](https://user-images.githubusercontent.com/113529125/215275114-4bdff58e-9476-4c45-bf32-3b8fb9939450.png)
 
