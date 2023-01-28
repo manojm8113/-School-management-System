@@ -18,8 +18,8 @@ Admin pannel
 ![7](https://user-images.githubusercontent.com/113529125/215275319-54d342bf-cccc-4d92-a29b-6bf4f0bef1bb.png)
 ![8](https://user-images.githubusercontent.com/113529125/215275328-94c8dc72-57a3-4dce-aed6-eb4004fc1182.png)
 
-![9](https://user-images.githubusercontent.com/113529125/215275340-2e32071c-d057-424b-ba0e-0d7d9c9033![10](https://user-images.githubusercontent.com/113529125/215275351-d190bd3b-f39b-4f49-a15b-f94a8d086080.png)
 
+
+![9](https://user-images.githubusercontent.com/113529125/215275543-bdcb31f9-1281-4f40-8781-b0209b77d91c.png)
 Student pannel
-
 ![11](https://user-images.githubusercontent.com/113529125/215275363-e85c6852-69b8-40a2-a2bb-77af009c3e93.png)
